@@ -1,0 +1,14 @@
+{
+	"txns": [], 
+	"tokens": [],
+	"networks": [
+		{
+			"url": "",
+			"testnet": false
+		}
+	],
+	"defaultNetwork": "",
+	"defaultWallet": "",
+	"wallets": [],
+	"walletPath": "/wallet/wallet.wcli"
+}
