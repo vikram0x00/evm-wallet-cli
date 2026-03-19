@@ -1,5 +1,7 @@
 # EVM Hardware Wallet 
 
+### 🔺 Incomplete
+
 A EVM Cold-Wallet
 
 WARNING: This stores the private keys of the wallets in the root directory of NodeJS as plaintext. I am implementing an AES Encryption soon 
